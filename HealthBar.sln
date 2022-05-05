@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthBar", "HealthBar\HealthBar.csproj", "{C9E8047F-C10A-4FF9-8D61-47EFD282E313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E8047F-C10A-4FF9-8D61-47EFD282E313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E8047F-C10A-4FF9-8D61-47EFD282E313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E8047F-C10A-4FF9-8D61-47EFD282E313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E8047F-C10A-4FF9-8D61-47EFD282E313}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {298D9D12-A1A4-41CD-AF2C-76A1B6ABAC64}
+	EndGlobalSection
+EndGlobal
